@@ -1,6 +1,3 @@
-Certainly, here it is with even larger headings:
-
----
 
 # **APPROACH:**
 
