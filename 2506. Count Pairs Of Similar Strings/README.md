@@ -1,6 +1,6 @@
- **Approach**
+# **Approach**
 
-**Key Algorithm:**
+## **Key Algorithm:**
 
 1. **Character Presence Array Creation:**
    - Initialize a 2D boolean array `arr` with dimensions `N x 26`, where `N` is the number of words.
@@ -15,7 +15,7 @@
    - Compare each pair of strings for similarity:
      - If their `arr` rows are identical, increment the similar pair count.
 
-**Complexity Analysis:**
+# **Complexity Analysis:**
 
 - **Time Complexity:** O(N^2)
    - Nested loops dominate, leading to quadratic time complexity.
