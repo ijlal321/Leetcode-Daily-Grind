@@ -1,4 +1,4 @@
-# Interview Guide: "Sort Array By Parity" Problem
+# "Sort Array By Parity" Problem
 
 ## Problem Understanding
 The "Sort Array By Parity" problem requires sorting an array of integers so that all even integers come before all odd integers. While the order of even and odd numbers doesn't matter, the even numbers should always precede the odd numbers in the resultant array.
@@ -14,8 +14,6 @@ The "Sort Array By Parity" problem requires sorting an array of integers so that
 
 ### Conclusion
 The "Sort Array By Parity" problem showcases the importance of understanding array manipulation techniques. By using a two-pointer approach or leveraging Python's list comprehension, you can sort the array based on parity efficiently.
-
-## Live Coding & Explain
 
 ### Approach 1: Two-Pointer Approach
 To solve the "Sort Array By Parity" problem using the two-pointer approach:
