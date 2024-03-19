@@ -21,6 +21,6 @@ While this repository primarily serves as a personal log of my daily problem-sol
 
 ## Connect
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile) and share our coding experiences and knowledge!
+Let's connect on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ijlal-tanveer-572213269/)) and share our coding experiences and knowledge!
 
 Happy coding! 🚀
